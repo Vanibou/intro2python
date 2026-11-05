@@ -1,0 +1,5 @@
+name,age,group,control,treatment,treament,consented,age_next_year,is_adult
+Ana,21,control,treatment,treatment,treatment,True,22,True
+Ben,25,treatment,treatment,treatment,treatment,True,26,True
+Cleo,30,control,treatment,treatment,treatment,False,31,True
+Dev,28,treament,treatment,treatment,treatment,True,29,True
