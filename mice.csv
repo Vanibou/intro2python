@@ -1,0 +1,5 @@
+mouse,genotype,session,good_session
+M1,SST-Cre,1,True
+M2,SST-Cre,2,False
+M3,WT,1,True
+M4,WT,3,True
